@@ -1,9 +1,46 @@
-* {
 
-background-color: white;
-}
 
 h1 {
 
   font-family: Arial;
 }
+
+
+.spyform {
+  display: block;
+
+}
+
+
+
+
+
+
+
+#spyContainer {
+
+background-color:  yellow;
+display: inline;
+}
+
+#spies {
+  background-color: yellow;
+  font-color: green;
+}
+
+#deletespy {
+
+  display: inline;
+  float: right;
+}
+
+
+.yellow{
+	
+	background-color:  yellow;
+}
+
+.red {
+	background-color:  red;
+}
+
